@@ -17,7 +17,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="plonetheme.redmusic: Uninstall profile for Plone 4 Diazo Theme"
+      title="plonetheme.redmusic Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the plonetheme.redmusic package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
